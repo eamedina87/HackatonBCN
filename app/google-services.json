@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "893444744213",
+    "firebase_url": "https://meta-geography-197611.firebaseio.com",
+    "project_id": "meta-geography-197611",
+    "storage_bucket": "meta-geography-197611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893444744213:android:529dd1271e6c4fda",
+        "android_client_info": {
+          "package_name": "com.medinamobile.hackatonbcn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893444744213-2htnd3mue7mraes848hu9vpdsl7g8u0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa6wNYaoz_qyr0h0JH4NXGyry11_jZoVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

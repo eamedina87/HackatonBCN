@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HackatonBCN</string>
+    <string name="title_activity_main">Map</string>
+    <string name="map_option_map">Map</string>
+    <string name="map_option_list">List</string>
+    <string name="stations_empty">Stations Empty</string>
+    <string name="detail_label_bikes">Amount of bikes</string>
+    <string name="detail_label_slots">Available slots</string>
+    <string name="detail_label_nearest">Near Stations</string>
+    <string name="detail_label_status">Status</string>
+    <string name="status_open">Open</string>
+    <string name="status_closed">Closed</string>
+    <string name="detail_bikes">%d bike(s)</string>
+    <string name="detail_slots">%d slot(s)</string>
+    <string name="detail_distance">Distance: %s</string>
+    <string name="detail_accidents">There have been %d bike accidents in this district in the last 3 years</string>
+</resources>
